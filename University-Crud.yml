@@ -3,3 +3,4 @@ db:
   username: serviceeducation
   password: admin123
   maximum-pool-size: 5
+  connection-timeout: 20000

@@ -3,4 +3,5 @@ mysql-db:
   username: root
   password: security_2026
   maximum-pool-size: 5
+  driver-class-name: com.mysql.cj.jdbc.Driver
   connection-timeout: 20000
